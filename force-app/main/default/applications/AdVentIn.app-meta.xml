@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>International Hub for Online Advertisements</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>AdVentIn</label>
+    <navType>Standard</navType>
+    <tabs>Show_user__c</tabs>
+    <tabs>Show_Client__c</tabs>
+    <tabs>Insert_Add__c</tabs>
+    <tabs>Send_Advertise__c</tabs>
+    <tabs>Redemption__c</tabs>
+    <tabs>Redemption_Request__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>AdVentIn_UtilityBar</utilityBar>
+</CustomApplication>
