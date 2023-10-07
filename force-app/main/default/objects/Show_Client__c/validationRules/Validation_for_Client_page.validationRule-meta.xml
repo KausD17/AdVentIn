@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Validation_for_Client_page</fullName>
+    <active>true</active>
+    <errorConditionFormula>Name &lt;&gt;  &quot;Name&quot;</errorConditionFormula>
+    <errorDisplayField>Name</errorDisplayField>
+    <errorMessage>Name cannot be &quot;Name&quot; itself.</errorMessage>
+</ValidationRule>

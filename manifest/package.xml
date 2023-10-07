@@ -5,7 +5,6 @@
 		<name>CustomApplication</name>
 	</types>
 	<types>
-		<members>AdVentIn__c</members>
 		<members>Insert_Add__c</members>
 		<members>Redemption_Request__c</members>
 		<members>Redemption__c</members>
