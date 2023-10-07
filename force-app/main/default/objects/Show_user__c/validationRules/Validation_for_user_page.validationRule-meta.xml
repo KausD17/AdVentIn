@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Validation_for_user_page</fullName>
+    <active>true</active>
+    <errorConditionFormula>First_Name__c  &lt;&gt; &quot;Name&quot;</errorConditionFormula>
+    <errorDisplayField>First_Name__c</errorDisplayField>
+    <errorMessage>First name should not be equal to &quot;Name&quot; itself</errorMessage>
+</ValidationRule>

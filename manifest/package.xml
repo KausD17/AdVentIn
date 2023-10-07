@@ -9,7 +9,6 @@
 		<members>Redemption_Request__c</members>
 		<members>Redemption__c</members>
 		<members>Send_Advertise__c</members>
-		<members>Show_Client__c</members>
 		<members>Show_user__c</members>
 		<name>CustomObject</name>
 	</types>
